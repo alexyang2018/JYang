@@ -14,15 +14,18 @@ Kicking feet, 2 or 3 months, 2019-7-17
 
 Saying "ah', 4 month, 2019-08-17
 
-One tooth, 8 months, 2020-01-23
+1st tooth, 8 months, 2020-01-23
 
-Three tooth, 10 month, 2020-03-17
+3rd tooth, 10 month, 2020-03-17
 
 Clapping hands, 10 months, 2020-3-17
 
-Four tooth, 11 month,  2020-04-20
+4th tooth, 11 month,  2020-04-20
 
 Crawling
 
 5th teeth， 2020-04-28
 
+6th teeth， 2020-05-17
+
+sit up in bed， 2020-05-20
