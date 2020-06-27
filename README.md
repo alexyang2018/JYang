@@ -22,10 +22,13 @@ Clapping hands, 10 months, 2020-3-17
 
 4th tooth, 11 month,  2020-04-20
 
-Crawling
-
 5th teeth， 2020-04-28
+
+sit up in bed， 2020-05-20
 
 6th teeth， 2020-05-17
 
-sit up in bed， 2020-05-20
+
+8th teeth， 2020-06-01
+
+Crawling， 2020-06-25
