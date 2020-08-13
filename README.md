@@ -32,3 +32,7 @@ sit up in bed， 2020-05-20
 8th teeth， 2020-06-01
 
 Crawling， 2020-06-25
+
+Walking， 2020-08-01
+
+Baba， 2020-08-01
