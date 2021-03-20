@@ -28,7 +28,6 @@ sit up in bed， 2020-05-20
 
 6th teeth， 2020-05-17
 
-
 8th teeth， 2020-06-01
 
 Crawling， 2020-06-25
@@ -36,3 +35,9 @@ Crawling， 2020-06-25
 Walking， 2020-08-01
 
 Baba， 2020-08-01
+
+
+Write "2" and "8", 2021-03-20
+
+Count from 1 to 8, 2021-03-20
+
